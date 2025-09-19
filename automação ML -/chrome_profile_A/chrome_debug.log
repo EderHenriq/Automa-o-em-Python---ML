@@ -1,0 +1,4 @@
+[17008:15084:0919/095223.976:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:206] No machine level policy manager exists.
+[17008:15084:0919/095224.879:INFO:CONSOLE:115] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/y_/r/BQlP-esDbRB.js (115)
+[17008:12180:0919/095235.241:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[17008:15084:0919/095236.140:INFO:CONSOLE:115] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/y_/r/nK6wu7EMpEq.js (115)

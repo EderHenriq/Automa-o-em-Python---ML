@@ -1,0 +1,3 @@
+cd C:\Users\Waver\Desktop\eder\automação ML
+
+python automacao_ml.py
