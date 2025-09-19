@@ -1,16 +1,12 @@
 # Automação de Códigos Mercado Livre 🤖
 
-<p align="center">
-  <img src="https://i.imgur.com/Kz8b5K7.png" alt="Fluxograma da Automação" width="700"/>
-</p>
-
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Este projeto consiste em um script de automação desenvolvido para resolver um problema de rotina em um ambiente de e-commerce: a necessidade de coletar e distribuir códigos de autorização diários de múltiplas contas do **Mercado Livre**. A tarefa, quando realizada manualmente, era repetitiva, demorada e suscetível a erros humanos.
 
 A automação foi projetada para ser executada em um horário agendado, de segunda a sexta-feira, sem qualquer intervenção humana, otimizando o fluxo de trabalho da equipe.
 
-## ✨ Como Funciona
+##  Como Funciona
 
 A solução utiliza um script Python robusto que simula a interação humana com o navegador. O robô executa uma sequência lógica de tarefas:
 
@@ -28,10 +24,6 @@ Todo o processo é executado de forma autônoma, silenciosa e confiável, garant
 * **Automação de Mensageria:** Controla o WhatsApp Web para enviar uma série de mensagens formatadas para um grupo pré-definido.
 * **Agendamento Inteligente:** Projetado para ser executado por um agendador de tarefas externo (como o System Scheduler), operando apenas em dias úteis.
 
-<p align="center">
-  <img src="https://i.imgur.com/rG8Q3g0.png" alt="Código" width="400"/>
-</p>
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem Principal:** Python
@@ -46,7 +38,7 @@ Todo o processo é executado de forma autônoma, silenciosa e confiável, garant
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🚀 Como Usar
+## Como Usar
 
 1.  **Pré-requisitos:**
     * Python 3 instalado.
@@ -54,7 +46,7 @@ Todo o processo é executado de forma autônoma, silenciosa e confiável, garant
     * ChromeDriver compatível com a versão do seu Chrome.
 
 2.  **Instalação:**
-    * Clone este repositório: `git clone [URL_DO_SEU_REPOSITORIO]`
+    * Clone este repositório: `git clone `
     * Instale as dependências: `pip install selenium`
 
 3.  **Configuração:**
